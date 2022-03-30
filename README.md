@@ -1,3 +1,9 @@
-- 👋 Hi, I’m @itsRona
-- 🌱 I’m currently learning ...
-- 📫 How to reach me - ronaldo.dcs@icloud.com
+- 👋 Hi, I’m @itsRona!
+
+
+Tecnologias que estudo 📚
+📜 HTML
+💈  CSS
+🤖 JavaScript
+
+
